@@ -19,11 +19,12 @@ Plataforma interativa para aprender PHP com sistema de metas diárias, calendár
 git clone https://github.com/seu-usuario/treinamento-php.git
 ```
 
-2. Abra `index.html` em um navegador ou servidor local
+2. Ou Abra em https://rafaldm.github.io/easy-school
+   
 
-3. Configure suas metas clicando no ícone ⚙️
+4. Configure suas metas clicando no ícone ⚙️
 
-4. Comece a praticar!
+5. Comece a praticar!
 
 ## 🛠️ Tecnologias
 
